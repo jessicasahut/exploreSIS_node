@@ -29,7 +29,15 @@ Run the local app using `source("run_app.R")`
 Once you get it working well, you can deploy the application using [shinyapps.io](http://shiny.rstudio.com/articles/shinyapps.html) or with your own local [Shiny server](https://www.rstudio.com/products/shiny/shiny-server2/).
 
 ## License
-Nonprofit agencies can use all the help they can get. For that reason, this code is made available under a [Creative Commons BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). 
+We believe in freely sharing ideas and software rather than charging non-profits and governments over and over for something we create.  But we also have to guard against some taking advantage of our goodwill and to keep development of this tool in the public sphere. 
+ 
+So we decided to publish this under the [Creative Commons Attribution – Non-Commercial – Share Alike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Here’s why:
+* We want to promote free software for non-profits and governments.
+* We do not want our work to contribute to money-making activities without some return on our investment.
+
+If you wish to use this work to augment any endeavor that generates revenues – regardless of whether you are for-profit, non-profit or governmental – please contact [info@tbdsolutions.com](info@tbdsolutions.com) or the author of this repository for information on licensing.
+
+Otherwise, please use what’s here – and contribute your own modifications or improvements.  
 
 ## Collaboration
 If you make any changes that others might benefit from, please feel free to share-alike by submitting a pull request to this repo.
