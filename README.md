@@ -44,3 +44,13 @@ If you make any changes that others might benefit from, please feel free to shar
 
 ## Support
 This code is provided for non-profit use, as noted above.  If you run into issues and would like some support, please e-mail [info@tbdsolutions.com](info@tbdsolutions.com). 
+
+## Credits
+Like most efforts, this one was built on the backs of giants.  Special thanks and shout-outs to the following:
+
+* [hadley](https://github.com/hadley), for: [dplyr](https://github.com/hadley/dplyr), [ggplot2](https://github.com/hadley/ggplot2), and [tidyr](https://github.com/hadley/tidyr)
+* The [rstudio](https://github.com/rstudio) team, for: [shiny](https://github.com/rstudio/shiny), [shinydashboard](https://github.com/rstudio/shinydashboard), [dygraphs](https://github.com/rstudio/dygraphs), [d3heatmap](https://github.com/rstudio/d3heatmap), [DT](https://github.com/rstudio/DT)
+* [timelyportfolio](https://github.com/timelyportfolio), for [parsetR](https://github.com/timelyportfolio/parsetR)
+* [ropensci](https://github.com/ropensci), for open-sourcing the beautiful [plotly](https://github.com/ropensci/plotly) JS library
+* [joshuaulrich](https://github.com/joshuaulrich), for the [xts](https://github.com/joshuaulrich/xts) package
+
